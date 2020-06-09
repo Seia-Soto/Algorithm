@@ -15,7 +15,7 @@ The problem solving things.
 ## Windows
 
 - C/C++
-  - gcc version v6.3.0 (MinGW.org GCC-6.3.0-1)
+  - gcc version 8.1.0 (x86_64-win32-seh-rev0, Built by MinGW-W64 project)
 - JavaScript
   - Node.JS v10.21.0 (NVM)
 - Python
